@@ -36,7 +36,7 @@ img {
 
 @media screen and (min-width: 768px) {
     .container {
-        max-width: 768px;
+        max-width: 736px;
         padding: 0 16px;
     }   
 }
@@ -480,13 +480,10 @@ background-color: #4D5AE5;
 
 @media screen and (min-width: 768px) {
 
-.container {
-    max-width: 736px;
-}
-
 .advantages-section {
     padding: 96px 0;
     display: block;
+
 }
 
 .advantages-list {
@@ -494,6 +491,7 @@ background-color: #4D5AE5;
     flex-direction: row;
     flex-wrap: wrap;
     gap: 24px;
+    width: 768px;
 }
 
 .advantages-item {
@@ -528,6 +526,8 @@ background-color: #4D5AE5;
     display: flex;
     align-items: center;
     gap: 24px;
+    width: 1158px;
+    padding: 0;
     }
 
     .advantages-item {
