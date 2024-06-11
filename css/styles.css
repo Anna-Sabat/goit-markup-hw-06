@@ -1006,6 +1006,12 @@ transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
     transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
+.form-btn:focus, 
+.form-btn:hover {
+    background-color: #404BBF;
+}
+
+
 .text-form {
     font-weight: 500;
     font-size: 16px;
