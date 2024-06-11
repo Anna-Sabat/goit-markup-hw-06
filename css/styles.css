@@ -771,7 +771,6 @@ transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
     padding: 32px 16px;
     border: 1px solid #e7e9fc;
     border-top: none;
-    width: 288px;
 }
 
 .portfolio-projects {
@@ -1001,7 +1000,6 @@ transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
     cursor: pointer;
     border: none;
     border-radius: 4px;
-    padding: 8px 24px;
     width: 165px;
     height: 40px;
     border-color: transparent;
